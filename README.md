@@ -1,2 +1,0 @@
-# OS
-otimização e simulação
